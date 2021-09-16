@@ -1,0 +1,25 @@
+.viewCard h1{
+    font-size:2rem;
+}
+.viewBody{
+    background-color: #ffffff;
+    color: #fff;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height: 90vh;
+}
+.viewCard{
+    margin: 1rem;
+    border: 1px solid #ccc;
+    padding: 1rem;   
+}
+button{
+    background-color: #ffffff;
+    color: #fff; 
+    margin: 1rem;
+}
+button:hover{
+    background-color:#fff ;
+    color: #ffffff; 
+}
